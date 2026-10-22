@@ -1,0 +1,9 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+streamlit
+torch
+torchvision
+numpy
+pandas
+Pillow
+joblib
+scikit-learn==1.6.1
